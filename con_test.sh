@@ -23,7 +23,7 @@ Where:
     -n NUM          run only NUM test, if 0 runs all the tests (default: 0)
     SCRIPT_NAME     name of the file with your solution (default: $solution)
 
-pkg home page: https://github.com/ypypy28/yandex.contest
+home page: https://github.com/ypypy28/contest.test_runner
 EOUSAGE
 }
 
