@@ -1,10 +1,10 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 set -euo pipefail
 
-declare -r NORMAL_COLOR="\033[39m"
-declare -r RED_COLOR="\033[31m"
-declare -r GREEN_COLOR="\033[32m"
-declare -r YELLOW_COLOR="\033[33m"
+readonly NORMAL_COLOR="\033[39m"
+readonly RED_COLOR="\033[31m"
+readonly GREEN_COLOR="\033[32m"
+readonly YELLOW_COLOR="\033[33m"
 
 solution=solution.py
 timeoutvalue=15
